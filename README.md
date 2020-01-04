@@ -1,1 +1,1 @@
-# wellcome to Mygmall
+# wellcome to MyGmall
